@@ -20,7 +20,7 @@ val Typography = Typography(
     ),
     displaySmall = TextStyle(
         fontSize = 40.sp,
-        fontFamily = FontFamily(Font(R.font.sf_pro))
+        fontFamily = FontFamily(Font(R.font.sf_pro_bold))
     ),
     headlineLarge = TextStyle(
         fontSize = 32.sp,
@@ -60,7 +60,7 @@ val Typography = Typography(
     ),
     labelLarge = TextStyle(
         fontSize = 14.sp,
-        fontFamily = FontFamily(Font(R.font.sf_pro_semibold_italic))
+        fontFamily = FontFamily(Font(R.font.sf_pro_medium))
     ),
     labelMedium = TextStyle(
         fontSize = 12.sp,

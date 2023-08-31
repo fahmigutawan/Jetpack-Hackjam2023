@@ -4,5 +4,6 @@ enum class NavRoutes {
     SPLASH,
     LOGIN,
     REGISTER,
-    ONBOARDING
+    ONBOARDING,
+    HOME
 }
