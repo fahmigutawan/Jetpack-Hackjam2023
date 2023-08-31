@@ -1,7 +1,6 @@
 package com.example.hackjam2023
 
 import android.os.Bundle
-import android.view.LayoutInflater
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.viewModels
